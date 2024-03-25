@@ -1,0 +1,17 @@
+{
+ "navigation": {
+        "home": "Home",
+        "about": "Over ons"
+    },
+ "page": {
+    "home": {
+      "title": "Home",
+      "description": "Hallo daar!",
+      "explanation": "Op deze pagina begint het avontuur voor elke bezoeker."
+    },
+    "about": {
+      "title": "Over ons",
+      "description": "Een beetje over ons!"
+    }
+ }
+}
